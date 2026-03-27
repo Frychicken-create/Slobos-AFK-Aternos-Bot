@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ChickE_SMP.aternos.me:47199",
+    "port": 47199,
     "version": "",
     "try-creative": false
   },
